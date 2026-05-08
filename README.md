@@ -1,9 +1,11 @@
 E-Commerce Web Application (Java EE & Redis)
 
-Overview
+Overview :
+
 This is a full-stack Java web application I developed to demonstrate a robust authentication system and optimized product management. The project focuses on security, performance through caching, and high availability.
 
 Key Features I Implemented:
+
 Role-Based Access Control (RBAC): Integrated a dual-role system (Admin/User). Admins have full CRUD privileges on products, while Users can view products and submit feedback.
 
 Secure Authentication: Built a custom registration and login flow with email validation and secure session management.
