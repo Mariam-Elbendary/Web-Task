@@ -1,4 +1,5 @@
 E-Commerce Web Application (Java EE & Redis)
+
 Overview
 This is a full-stack Java web application I developed to demonstrate a robust authentication system and optimized product management. The project focuses on security, performance through caching, and high availability.
 
